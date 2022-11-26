@@ -1,11 +1,19 @@
 {
-  "name": "roll-the-dice",
+  "name": "dice-game",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/idan-tepe/roll-the-dice.git"
+  },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/idan-tepe/roll-the-dice/issues"
+  },
+  "homepage": "https://github.com/idan-tepe/roll-the-dice#readme",
+  "description": ""
 }
