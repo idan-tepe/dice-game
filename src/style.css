@@ -1,0 +1,26 @@
+body {
+  display: flex;
+  flex-direction: column;
+}
+
+header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  height: 15vh;
+}
+
+nav {
+  align-self: flex-end;
+}
+
+main {
+  height: 70vh;
+  display: flex;
+  flex-direction: column;
+  align-self: center;
+}
+
+footer {
+  height: 7vh;
+}/*# sourceMappingURL=style.css.map */
